@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646712291 source:e:\c++\c++_tutorial\asdm function\main.cpp
+	<iostream>
+	<stdio.h>
+	<ctype.h>
+
